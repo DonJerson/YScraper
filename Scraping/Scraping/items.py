@@ -9,6 +9,8 @@ import scrapy
 
 
 class ScrapingItem(scrapy.Item):
-    # define the fields for your item here like:
-    # name = scrapy.Field()
+    BusinessName = scrapy.Field()
+    BusinessAddress = scrapy.Field()
+    BusinessPhone = scrapy.Field()
+    BusinessZipcode = scrapy.Field()
     pass
