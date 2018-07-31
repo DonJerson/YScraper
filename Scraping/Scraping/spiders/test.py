@@ -7,10 +7,7 @@ body = '<html><body><div class="secondary-attributes">\n                        
 
 response = Selector(text=body)
 container = response.xpath('//div[@class="secondary-attributes"]').extract()
-
 filtered_container = []
-
-
 for element in container:
 	element = Selector(text=element)
 

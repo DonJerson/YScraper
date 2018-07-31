@@ -15,8 +15,7 @@ SPIDER_MODULES = ['Scraping.spiders']
 NEWSPIDER_MODULE = 'Scraping.spiders'
 
 
-# Crawl responsibly by identifying yourself (and your website) on the user-agent
-#USER_AGENT = 'Scraping (+http://www.yourdomain.com)'
+
 
 # Obey robots.txt rules
 ROBOTSTXT_OBEY=False
@@ -64,9 +63,13 @@ ROBOTSTXT_OBEY=False
 
 # Configure item pipelines
 # See https://doc.scrapy.org/en/latest/topics/item-pipeline.html
-#ITEM_PIPELINES = {
-#    'Scraping.pipelines.ScrapingPipeline': 300,
-#}
+
+FEED_URI = 'results/export.csv'
+FEED_FORMAT = 'csv'
+
+# ITEM_PIPELINES = {
+#    'Scraping.pipelines.MongoPipeline': 300,
+# }
 
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See https://doc.scrapy.org/en/latest/topics/autothrottle.html

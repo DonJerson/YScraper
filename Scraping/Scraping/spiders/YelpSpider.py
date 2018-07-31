@@ -9,21 +9,26 @@ class YelpspiderSpider(scrapy.Spider):
     allowed_domains = ['yelp.com']
     start_urls = ['http://yelp.com/']
     zipcode = ''
-    filename = 'leads-1.xlsx'
+
     def start_requests(self):
-        b_type_list = ['restaurant']
-        zipcode_list = ['90001']
+        b_type_list = ['restaurant','barbershop','church','liquor store','law','upholstery','auto','game','tattoo','flower','pharmacy','postal','printing services','real estate','grocery store','dentist','weed','construction','breakfast','gas station','hair salon','hotel','tobbaco']
+        zipcode_list = ['36467']
         
-        for b_type,zipcode in zip(b_type_list,zipcode_list):
-            urls = [
-            'https://www.yelp.com/search?find_desc=%s&find_loc=%s'%(b_type, zipcode)
-            ]
-            self.zipcode = zipcode
-            yield scrapy.Request(url=urls[0], callback=self.parse)
+        for zipcode in zipcode_list:
+                        for b_type in b_type_list:
+                                urls = [
+                                'https://www.yelp.com/search?find_desc=%s&find_loc=%s'%(b_type, zipcode)
+                                ]
+                                self.zipcode = zipcode
+                                yield scrapy.Request(url=urls[0], callback=self.parse)
         pass
 
     def parse(self, response):
         container = response.xpath('//div[@class="biz-attributes"]').extract()
+        if container == []:
+                container = response.xpath('//div[@class="biz-listing-large services-layout-result u-space-t1 u-space-b1"]').extract()
+                if container == []:
+                        container = response.xpath('//div[@class="biz-listing-large"]').extract()
         filtered_container = []
         for element in container:
                 element = Selector(text=element)
@@ -44,3 +49,10 @@ class YelpspiderSpider(scrapy.Spider):
                 item.add_value('BusinessPhone',phone)
                 item.add_value('BusinessZipcode',self.zipcode)
                 yield item.load_item()
+        if response.xpath('//span[@class="pagination-label responsive-hidden-small pagination-links_anchor"]')==[]:
+                pass
+        else: 
+                urlx = 'https://www.yelp.com' + response.xpath('//a[@class="u-decoration-none next pagination-links_anchor"]/@href').extract()[0]
+                print(urlx)
+                yield scrapy.Request(url=urlx, callback=self.parse)
+                
