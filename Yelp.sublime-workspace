@@ -1,0 +1,681 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"B",
+				"BASE_DIR"
+			],
+			[
+				"l",
+				"leftToNextSequence"
+			],
+			[
+				"inn",
+				"innerCounterLock"
+			],
+			[
+				"tracking",
+				"trackings"
+			],
+			[
+				"pos",
+				"postURL"
+			],
+			[
+				"init",
+				"initall"
+			],
+			[
+				"est",
+				"estadoSopa"
+			],
+			[
+				"es",
+				"estadoSopa"
+			],
+			[
+				"inde",
+				"indexDob2"
+			],
+			[
+				"name",
+				"nameSopa"
+			],
+			[
+				"nam",
+				"nameSopa"
+			],
+			[
+				"Nu",
+				"numberOfProcesses"
+			],
+			[
+				"materi",
+				"materiaElements"
+			],
+			[
+				"mater",
+				"materiaElements"
+			],
+			[
+				"codigo",
+				"codigoIndex"
+			],
+			[
+				"ele",
+				"tdElementsFinal"
+			],
+			[
+				"nom",
+				"nombreIndex2"
+			],
+			[
+				"nomb",
+				"nombreBase"
+			],
+			[
+				"sele",
+				"seleccionSopa"
+			],
+			[
+				"index",
+				"indexCorreo"
+			],
+			[
+				"sopa",
+				"sopaCorreo"
+			],
+			[
+				"getP",
+				"getProfileHeaders"
+			],
+			[
+				"header",
+				"headers"
+			],
+			[
+				"url",
+				"urlHorarioDetalle"
+			],
+			[
+				"head",
+				"headers"
+			],
+			[
+				"get",
+				"getProfileHeaders"
+			],
+			[
+				"indexurl",
+				"indexUrl1"
+			],
+			[
+				"login",
+				"login"
+			],
+			[
+				"sess",
+				"sessionId"
+			],
+			[
+				"urlM",
+				"urlMain"
+			],
+			[
+				"c",
+				"connectToUasd"
+			],
+			[
+				"numero",
+				"numeroSecuencias"
+			],
+			[
+				"num",
+				"numbersLock"
+			],
+			[
+				"bro",
+				"browser_action"
+			],
+			[
+				"request",
+				"requests"
+			],
+			[
+				"phone",
+				"phone_number"
+			],
+			[
+				"che",
+				"checkedProxies"
+			],
+			[
+				"ch",
+				"chrome_options"
+			],
+			[
+				"getpro",
+				"getproxies"
+			],
+			[
+				"pone",
+				"phoneNumber"
+			],
+			[
+				"displa",
+				"displayName"
+			],
+			[
+				"dis",
+				"displayName"
+			],
+			[
+				"displ",
+				"displayindex"
+			],
+			[
+				"chec",
+				"checkedLock"
+			],
+			[
+				"HTT",
+				"HTTPYES"
+			],
+			[
+				"por",
+				"portindex"
+			],
+			[
+				"ip",
+				"IPindex"
+			],
+			[
+				"Ip",
+				"IPindex"
+			],
+			[
+				"H",
+				"HTTPYES"
+			],
+			[
+				"htt",
+				"HTTPYESindex1"
+			],
+			[
+				"Ht",
+				"HTTPYESindex1"
+			],
+			[
+				"we",
+				"webObject"
+			],
+			[
+				"fin",
+				"find_element_by_xpath"
+			],
+			[
+				"in",
+				"innerHTML"
+			],
+			[
+				"even",
+				"evenElements"
+			],
+			[
+				"odd",
+				"oddElement"
+			],
+			[
+				"o",
+				"oddElements"
+			],
+			[
+				"add",
+				"address_list"
+			],
+			[
+				"addre",
+				"addresses"
+			],
+			[
+				"find",
+				"find_elements_by_xpath"
+			],
+			[
+				"ac",
+				"action_chains"
+			],
+			[
+				"logg",
+				"loging_button"
+			],
+			[
+				"com",
+				"combolist"
+			],
+			[
+				"or",
+				"OrderContainer"
+			],
+			[
+				"courier",
+				"courierindex"
+			],
+			[
+				"mobile",
+				"mobileDeviceNumber"
+			],
+			[
+				"Or",
+				"OrderContainer"
+			],
+			[
+				"OrderNu",
+				"orderNumber"
+			],
+			[
+				"lo",
+				"locationCode"
+			],
+			[
+				"di",
+				"displayName"
+			],
+			[
+				"tra",
+				"trackingNumber"
+			],
+			[
+				"False",
+				"False"
+			],
+			[
+				"g",
+				"g-recaptcha-response"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"captcha",
+				"captcha_id"
+			],
+			[
+				"lec",
+				"lechita2"
+			],
+			[
+				"refre",
+				"refreshcookie"
+			],
+			[
+				"up",
+				"update_cookie"
+			],
+			[
+				"p",
+				"phone_number"
+			],
+			[
+				"locationCode",
+				"locationCodeelem"
+			],
+			[
+				"nu",
+				"num_check"
+			],
+			[
+				"pho",
+				"phone_data"
+			],
+			[
+				"threa",
+				"threads"
+			],
+			[
+				"location",
+				"LocationCodeBase"
+			],
+			[
+				"locatio",
+				"LocationCodeBase"
+			],
+			[
+				"Order",
+				"OrderNumberBase"
+			],
+			[
+				"chrome",
+				"chrome_options"
+			],
+			[
+				"de",
+				"delivery_date"
+			],
+			[
+				"sc",
+				"scraped"
+			],
+			[
+				"scra",
+				"scrape_tracking"
+			],
+			[
+				"tr",
+				"tracking_url"
+			],
+			[
+				"ge",
+				"get_attribute"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "import requests",
+			"file": "yelp.py",
+			"file_size": 0,
+			"file_write_time": 132066621130823026,
+			"settings":
+			{
+				"buffer_size": 15,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Jeremiah/Yelp"
+	],
+	"file_history":
+	[
+		"/C/Users/Jeremiah/forgotPassVz/customer/views.py",
+		"/C/Users/Jeremiah/forgotPassVz/customer/templates/security.html",
+		"/C/Users/Jeremiah/forgotPassVz/customer/models.py",
+		"/C/Users/Jeremiah/forgotPassVz/customer/templates/secret.html",
+		"/C/Users/Jeremiah/forgotPassVz/forgotPassVz/settings.py",
+		"/C/Users/Jeremiah/forgotPassVz/.gitignore",
+		"/C/Users/Jeremiah/prietoBlog/PrietoBlog.sublime-project",
+		"/C/Users/Jeremiah/prietoBlog/Blog/models.py",
+		"/C/Users/Jeremiah/prietoBlog/Blog/views.py",
+		"/C/Users/Jeremiah/prietoBlog/prietoWeb/urls.py",
+		"/C/Users/Jeremiah/prietoBlog/prietoWeb/settings.py",
+		"/C/Users/Jeremiah/prietoBlog/Blog/admin.py",
+		"/C/Users/Jeremiah/prietoBlog/Procfile",
+		"/C/Users/Jeremiah/Desktop/tmobile.py",
+		"/C/Users/Jeremiah/Desktop/Tmobile_venta.py",
+		"/C/Users/Jeremiah/prietogens/Procfile",
+		"/C/Users/Jeremiah/prietogens/forgotPassVz/settings.py",
+		"/C/Users/Jeremiah/Desktop/tmobile_final.py",
+		"/C/Users/Jeremiah/forgotPassVz/customer/views2.py",
+		"/C/Users/Jeremiah/forgotPassVz/customer/admin.py",
+		"/C/Users/Jeremiah/forgotPassVz/customer/forms.py",
+		"/C/Users/Jeremiah/forgotPassVz/Procfile.windows",
+		"/C/Users/Jeremiah/forgotPassVz/Procfile",
+		"/C/Users/Jeremiah/forgotPassVz/customer/templates/index.html",
+		"/E/Prieto Life/Mis Docs/Verizon Scam 2019/mylogin.html.html",
+		"/E/Prieto Life/Mis Docs/Verizon Scam 2019/security.html",
+		"/C/Users/Jeremiah/forgotPassVz/customer/templates/registry.html",
+		"/C/Users/Jeremiah/forgotPassVz/forgotPassVz/urls.py",
+		"/C/Users/Jeremiah/GetPeople/candidates/models.py",
+		"/C/Users/Jeremiah/GetPeople/candidates/candidates_urls.py",
+		"/C/Users/Jeremiah/Prieto Life/Mis Docs/Verizon Scam 2019/mylogin.html.html",
+		"/C/Users/Jeremiah/GetPeople/candidates/views.py",
+		"/C/Users/Jeremiah/GetPeople/candidates/forms.py",
+		"/C/Users/Jeremiah/forgotPassVz/customer/tests.py",
+		"/C/Users/Jeremiah/forgotPassVz/customer/apps.py",
+		"/C/Users/Jeremiah/Prieto Life/Generador/GeneradorCookies2.py",
+		"/C/Users/Jeremiah/Desktop/GenSP/sp.py",
+		"/C/Users/Jeremiah/Desktop/sphtml.py",
+		"/C/Users/Jeremiah/Desktop/Verizon Scam 2019/security.html",
+		"/C/Users/Jeremiah/Desktop/GeneradorATT/att.py",
+		"/C/Users/Jeremiah/Prieto Life/Generador/GeneradorCookies.py",
+		"/C/Users/Jeremiah/Prieto Life/Generador/escritorcuentas.py",
+		"/C/Users/Jeremiah/Desktop/mcm.py",
+		"/C/Users/Jeremiah/Desktop/uasd.py",
+		"/C/Users/Jeremiah/Desktop/fedex.py",
+		"/C/Users/Jeremiah/Desktop/sp_final.py",
+		"/C/Users/Jeremiah/Desktop/gen1/sp.py",
+		"/C/Users/Jeremiah/Desktop/ssn.py",
+		"/C/Users/Jeremiah/Prieto Life/Generador/generadorssn.py",
+		"/C/Users/Jeremiah/Desktop/gen2/sp.py",
+		"/C/Users/Jeremiah/Desktop/ups.py",
+		"/C/Users/Jeremiah/Desktop/GeneradorVZ/GeneradorVZ.py",
+		"/C/Users/Jeremiah/Desktop/att.py",
+		"/C/Users/Jeremiah/Desktop/GeneradorVZ.py",
+		"/C/My Web Sites/Uasd/www.autoservicio.uasd.edu.do/PROD/twbkwbis.html",
+		"/C/Users/Jeremiah/Desktop/Gentracks/prietotracking.py",
+		"/C/Users/Jeremiah/Desktop/commands/browser_action.html",
+		"/C/Users/Jeremiah/Desktop/commands/background.js",
+		"/C/Users/Jeremiah/Desktop/commands/manifest.json",
+		"/C/Users/Jeremiah/Desktop/commands/popup.js",
+		"/C/Users/Jeremiah/Prieto Life/Generador/GeneradorVZ.py",
+		"/C/Users/Jeremiah/Desktop/commands/require.js",
+		"/C/Users/Jeremiah/Prieto Life/Generador/truepeople.py",
+		"/C/Users/Jeremiah/Prieto Life/Generador/getproxies.py",
+		"/C/Users/Jeremiah/Prieto Life/Generador/prietotracking.py",
+		"/C/Users/Jeremiah/Desktop/generadorssn.py",
+		"/C/Users/Jeremiah/Desktop/Release/BuscaClientes.pdb",
+		"/C/Users/Jeremiah/Desktop/Release/BuscaClientes.exe.config",
+		"/C/Users/Jeremiah/Desktop/Release/BuscaClientes.exe",
+		"/C/Users/Jeremiah/Desktop/ordenesvz.py",
+		"/C/Users/Jeremiah/Desktop/tracking_final.py",
+		"/C/Users/Jeremiah/Prieto Life/Generador/GeneradorCommon.py",
+		"/C/Users/Jeremiah/Desktop/chrome-query/chrome-query/devtools.js",
+		"/C/Users/Jeremiah/Desktop/chrome-query/chrome-query/devtools.html",
+		"/C/Users/Jeremiah/Desktop/chrome-query/chrome-query/manifest.json",
+		"/C/Users/Jeremiah/Prieto Life/Downloads/tracking_final (1).py",
+		"/C/Users/Jeremiah/Prieto Life/Generador/sp_final.py",
+		"/E/Prieto Life/Generador/prietotracking.py",
+		"/C/Users/Jeremiah/Desktop/prietotracking.py",
+		"/C/Users/Jeremiah/Prieto Life/Generador/att_final.py",
+		"/C/Users/Jeremiah/Prieto Life/Generador/walscraping.py",
+		"/C/Users/Jeremiah/Prieto Life/Generador/GeneradorBrightStar.py",
+		"/C/Users/Jeremiah/Prieto Life/Generador/walmart_final.py",
+		"/C/Users/Jeremiah/Generador/generadortracking.py",
+		"/C/Users/Jeremiah/Prieto Life/Mis Docs/Programming/tk2dr.py",
+		"/C/Users/Jeremiah/Prieto Life/Generador/tracking_final.py",
+		"/C/Users/Jeremiah/Prieto Life/Generador/captchasolver.py",
+		"/C/Users/Jeremiah/Prieto Life/Generador/GeneradorSP2.py",
+		"/C/Users/Jeremiah/Prieto Life/Generador/generadorspselenium.py",
+		"/C/Users/Jeremiah/Downloads/GeneradorBrightStar (2).py",
+		"/C/Users/Jeremiah/Prieto Life/Generador/GeneradorSP.py",
+		"/C/Users/Jeremiah/Prieto Life/Programming/tk2dr.py",
+		"/C/Users/Jeremiah/Desktop/Sprint5/sprint.py",
+		"/C/Users/Jeremiah/Prieto Life/Dialer Shit/taketodrive.py",
+		"/C/Users/Jeremiah/Generador/captchasolver.py",
+		"/C/Users/Jeremiah/Generador/GeneradorVZ.py",
+		"/C/Users/Jeremiah/Generador/PeopleScraper.py",
+		"/C/Users/Jeremiah/Generador/GeneradorBrightStar.py",
+		"/E/GeneradorTracking/generadorssn.py",
+		"/C/Users/Jeremiah/Generador/GeneradorBoost.py",
+		"/C/Users/Jeremiah/Generador/phantomadvocare.py",
+		"/C/Users/Jeremiah/Generador/GeneradorSP2.py",
+		"/C/Users/Jeremiah/Generador/fedex.py",
+		"/C/Users/Jeremiah/Generador/ups.py"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"identify"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "yelp.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 15,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								15,
+								15
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Yelp.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
